@@ -1,0 +1,23 @@
+{
+  "user_76873d3f": [
+    {
+      "id": "req_a19821fd",
+      "fromId": "user_27c10453",
+      "fromName": "prabhas",
+      "fromAvatar": "/api/profile-image/9d31c7cb16d241b0/profile.jpg",
+      "status": "accepted",
+      "timestamp": "2026-03-09T16:38:32.411914"
+    }
+  ],
+  "user_27c10453": [
+    {
+      "id": "req_ca981b07",
+      "fromId": "user_76873d3f",
+      "fromName": "MANIKANTA",
+      "fromAvatar": "/api/profile-image/0b601aaf51134ad5/profile.jpg",
+      "status": "accepted",
+      "mirrorTo": "user_76873d3f",
+      "timestamp": "2026-03-09T16:39:25.555857"
+    }
+  ]
+}

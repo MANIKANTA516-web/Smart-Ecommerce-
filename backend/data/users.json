@@ -1,0 +1,50 @@
+[
+  {
+    "id": "admin_1",
+    "name": "Administrator",
+    "username": "admin",
+    "email": "admin@smartshop.ai",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "avatar": "/api/profile-image/d8ac447d261b4ce1/profile.jpg",
+    "createdAt": "2026-02-19T03:08:49.590491",
+    "profileImageCode": "d8ac447d261b4ce1",
+    "skinTone": "Medium"
+  },
+  {
+    "id": "user_76873d3f",
+    "name": "MANIKANTA",
+    "username": "MANIKANTA",
+    "email": "manikantadola254@gmail.com",
+    "password": "92b15450147a7fff55a3270d606cc2a90c187c7d4ef9245da7427ca2fc4e1447",
+    "role": "user",
+    "avatar": "/api/profile-image/0b601aaf51134ad5/profile.jpg",
+    "skinTone": null,
+    "createdAt": "2026-03-09T16:36:16.064047",
+    "profileImageCode": "0b601aaf51134ad5"
+  },
+  {
+    "id": "user_705a5e0f",
+    "name": "teju",
+    "username": "teju",
+    "email": "manikantadola25@gmail.com",
+    "password": "92b15450147a7fff55a3270d606cc2a90c187c7d4ef9245da7427ca2fc4e1447",
+    "role": "user",
+    "avatar": "/api/profile-image/6704725f3f6744a3/profile.jpg",
+    "skinTone": null,
+    "createdAt": "2026-03-09T16:37:24.536563",
+    "profileImageCode": "6704725f3f6744a3"
+  },
+  {
+    "id": "user_27c10453",
+    "name": "prabhas",
+    "username": "prabhas",
+    "email": "manikantadola2@gmail.com",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "user",
+    "avatar": "/api/profile-image/9d31c7cb16d241b0/profile.jpg",
+    "skinTone": null,
+    "createdAt": "2026-03-09T16:38:16.193409",
+    "profileImageCode": "9d31c7cb16d241b0"
+  }
+]

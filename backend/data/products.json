@@ -1,0 +1,3918 @@
+[
+  {
+    "id": "pa-37fb0d",
+    "name": "Grey pant",
+    "category": "Pants",
+    "price": 999.0,
+    "images": [
+      "/api/images/Pants/pa-37fb0d/pa-37fb0d-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.88,
+    "createdAt": "2026-03-08T11:27:14.156077"
+  },
+  {
+    "id": "t--381f95",
+    "name": "Gray T-shirt",
+    "category": "T-Shirts",
+    "price": 499.0,
+    "images": [
+      "/api/images/T-Shirts/t--381f95/t--381f95-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-08T11:28:32.818092"
+  },
+  {
+    "id": "su-a048db",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 499.0,
+    "images": [
+      "/api/images/Sunglasses/su-a048db/su-a048db-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-09T16:44:55.256347"
+  },
+  {
+    "id": "pa-daa684",
+    "name": "Beige Formal Pant",
+    "category": "Pants",
+    "price": 899.0,
+    "images": [
+      "/api/images/Pants/pa-daa684/pa-daa684-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.8,
+    "createdAt": "2026-03-13T16:09:50.945143"
+  },
+  {
+    "id": "pa-0f9551",
+    "name": "Black and White checks",
+    "category": "Pants",
+    "price": 999.0,
+    "images": [
+      "/api/images/Pants/pa-0f9551/pa-0f9551-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.97,
+    "createdAt": "2026-03-18T17:38:14.825997"
+  },
+  {
+    "id": "pa-e9a92f",
+    "name": "Sky Blue pant",
+    "category": "Pants",
+    "price": 999.0,
+    "images": [
+      "/api/images/Pants/pa-e9a92f/pa-e9a92f-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.52,
+    "createdAt": "2026-03-18T17:39:25.964331"
+  },
+  {
+    "id": "pa-8629af",
+    "name": "Black Formal",
+    "category": "Pants",
+    "price": 999.0,
+    "images": [
+      "/api/images/Pants/pa-8629af/pa-8629af-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.52,
+    "createdAt": "2026-03-18T17:42:34.279873"
+  },
+  {
+    "id": "pa-25e4ee",
+    "name": "White Joggers",
+    "category": "Pants",
+    "price": 2499.0,
+    "images": [
+      "/api/images/Pants/pa-25e4ee/pa-25e4ee-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.54,
+    "createdAt": "2026-03-18T17:43:08.342020"
+  },
+  {
+    "id": "pa-490be6",
+    "name": "Black Formal pants",
+    "category": "Pants",
+    "price": 3999.0,
+    "images": [
+      "/api/images/Pants/pa-490be6/pa-490be6-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.97,
+    "createdAt": "2026-03-18T17:44:58.626633"
+  },
+  {
+    "id": "pa-3c4361",
+    "name": "Stylish Beige Pants",
+    "category": "Pants",
+    "price": 2599.0,
+    "images": [
+      "/api/images/Pants/pa-3c4361/pa-3c4361-0.jpg",
+      "/api/images/Pants/pa-3c4361/pa-3c4361-1.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.8,
+    "createdAt": "2026-03-18T17:46:53.162762"
+  },
+  {
+    "id": "pa-c41958",
+    "name": "Stylish Beige Pant",
+    "category": "Pants",
+    "price": 899.0,
+    "images": [
+      "/api/images/Pants/pa-c41958/pa-c41958-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.93,
+    "createdAt": "2026-03-18T17:51:52.158817"
+  },
+  {
+    "id": "pa-681b26",
+    "name": "Grey pant",
+    "category": "Pants",
+    "price": 699.0,
+    "images": [
+      "/api/images/Pants/pa-681b26/pa-681b26-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.79,
+    "createdAt": "2026-03-18T17:52:25.350387"
+  },
+  {
+    "id": "pa-fd10e2",
+    "name": "Grey pant",
+    "category": "Pants",
+    "price": 997.0,
+    "images": [
+      "/api/images/Pants/pa-fd10e2/pa-fd10e2-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.79,
+    "createdAt": "2026-03-18T17:53:10.553985"
+  },
+  {
+    "id": "pa-1c94f7",
+    "name": "Brown Pant",
+    "category": "Pants",
+    "price": 9999.0,
+    "images": [
+      "/api/images/Pants/pa-1c94f7/pa-1c94f7-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.8,
+    "createdAt": "2026-03-18T17:53:57.072850"
+  },
+  {
+    "id": "su-d03022",
+    "name": "Futurastic black sunglasses",
+    "category": "Sunglasses",
+    "price": 999.0,
+    "images": [
+      "/api/images/Sunglasses/su-d03022/su-d03022-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.81,
+    "createdAt": "2026-03-20T04:25:59.746184"
+  },
+  {
+    "id": "su-093cc7",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 499.0,
+    "images": [
+      "/api/images/Sunglasses/su-093cc7/su-093cc7-0.webp"
+    ],
+    "description": "",
+    "rating": 4.0,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:26:28.592156"
+  },
+  {
+    "id": "su-8bd6dd",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 899.0,
+    "images": [
+      "/api/images/Sunglasses/su-8bd6dd/su-8bd6dd-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:26:54.788010"
+  },
+  {
+    "id": "su-dace8c",
+    "name": "Black Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 999.0,
+    "images": [
+      "/api/images/Sunglasses/su-dace8c/su-dace8c-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T04:27:31.110360"
+  },
+  {
+    "id": "su-c440ae",
+    "name": "Black Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 499.0,
+    "images": [
+      "/api/images/Sunglasses/su-c440ae/su-c440ae-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T04:27:50.972730"
+  },
+  {
+    "id": "su-6eeb6b",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 3999.0,
+    "images": [
+      "/api/images/Sunglasses/su-6eeb6b/su-6eeb6b-0.webp"
+    ],
+    "description": "",
+    "rating": 3.9,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:28:20.061465"
+  },
+  {
+    "id": "su-fc680d",
+    "name": "Futurastic Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 9999.0,
+    "images": [
+      "/api/images/Sunglasses/su-fc680d/su-fc680d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.58,
+    "createdAt": "2026-03-20T04:28:55.821654"
+  },
+  {
+    "id": "su-4468fe",
+    "name": "Black Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 4999.0,
+    "images": [
+      "/api/images/Sunglasses/su-4468fe/su-4468fe-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T04:29:21.911562"
+  },
+  {
+    "id": "su-65d03e",
+    "name": "Futurastic  Black Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 899.0,
+    "images": [
+      "/api/images/Sunglasses/su-65d03e/su-65d03e-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.6,
+    "createdAt": "2026-03-20T04:34:31.493785"
+  },
+  {
+    "id": "su-da2f0d",
+    "name": "Black Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Sunglasses/su-da2f0d/su-da2f0d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T04:34:51.140007"
+  },
+  {
+    "id": "su-a4b0c5",
+    "name": "Future Black Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Sunglasses/su-a4b0c5/su-a4b0c5-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.76,
+    "createdAt": "2026-03-20T04:35:15.255731"
+  },
+  {
+    "id": "su-332d16",
+    "name": "Thermal glasses",
+    "category": "Sunglasses",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Sunglasses/su-332d16/su-332d16-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.79,
+    "createdAt": "2026-03-20T04:35:42.653081"
+  },
+  {
+    "id": "su-909687",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Sunglasses/su-909687/su-909687-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:36:07.361750"
+  },
+  {
+    "id": "su-fd1fb2",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Sunglasses/su-fd1fb2/su-fd1fb2-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:36:07.581779"
+  },
+  {
+    "id": "su-490251",
+    "name": "Black Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Sunglasses/su-490251/su-490251-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T04:37:13.825122"
+  },
+  {
+    "id": "su-5c8877",
+    "name": "Olive green",
+    "category": "Sunglasses",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Sunglasses/su-5c8877/su-5c8877-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.73,
+    "createdAt": "2026-03-20T04:37:34.274619"
+  },
+  {
+    "id": "su-d1059c",
+    "name": "Blue Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 2499.0,
+    "images": [
+      "/api/images/Sunglasses/su-d1059c/su-d1059c-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.51,
+    "createdAt": "2026-03-20T04:38:05.288741"
+  },
+  {
+    "id": "su-5502b0",
+    "name": "Black Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Sunglasses/su-5502b0/su-5502b0-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.0,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T04:38:26.209712"
+  },
+  {
+    "id": "su-7b8590",
+    "name": "Black Stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Sunglasses/su-7b8590/su-7b8590-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.0,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T04:38:26.778145"
+  },
+  {
+    "id": "su-6ece37",
+    "name": "Black Stylish",
+    "category": "Sunglasses",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Sunglasses/su-6ece37/su-6ece37-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-20T04:38:49.600243"
+  },
+  {
+    "id": "su-5f6fee",
+    "name": "Beach vibe",
+    "category": "Sunglasses",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Sunglasses/su-5f6fee/su-5f6fee-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T04:39:21.899175"
+  },
+  {
+    "id": "su-d3a114",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Sunglasses/su-d3a114/su-d3a114-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:39:51.113287"
+  },
+  {
+    "id": "su-cc410f",
+    "name": "Black sunglasses men",
+    "category": "Sunglasses",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Sunglasses/su-cc410f/su-cc410f-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.54,
+    "createdAt": "2026-03-20T04:40:18.016022"
+  },
+  {
+    "id": "su-36b4d7",
+    "name": "Black stylish sunglasses",
+    "category": "Sunglasses",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Sunglasses/su-36b4d7/su-36b4d7-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.8,
+    "createdAt": "2026-03-20T04:40:47.576036"
+  },
+  {
+    "id": "su-722a4d",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 13999.0,
+    "images": [
+      "/api/images/Sunglasses/su-722a4d/su-722a4d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:41:13.471455"
+  },
+  {
+    "id": "su-f4b98e",
+    "name": "Black sunglasses men",
+    "category": "Sunglasses",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Sunglasses/su-f4b98e/su-f4b98e-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.54,
+    "createdAt": "2026-03-20T04:41:42.210825"
+  },
+  {
+    "id": "su-362be8",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 1699.0,
+    "images": [
+      "/api/images/Sunglasses/su-362be8/su-362be8-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:42:03.612544"
+  },
+  {
+    "id": "su-f46d5d",
+    "name": "Black sunglasses for style",
+    "category": "Sunglasses",
+    "price": 999.0,
+    "images": [
+      "/api/images/Sunglasses/su-f46d5d/su-f46d5d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.58,
+    "createdAt": "2026-03-20T04:42:34.044581"
+  },
+  {
+    "id": "su-d8a0df",
+    "name": "Swag sunglasses",
+    "category": "Sunglasses",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Sunglasses/su-d8a0df/su-d8a0df-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.51,
+    "createdAt": "2026-03-20T04:43:05.881925"
+  },
+  {
+    "id": "su-085107",
+    "name": "Beach vibe",
+    "category": "Sunglasses",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Sunglasses/su-085107/su-085107-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T04:43:25.173077"
+  },
+  {
+    "id": "su-117645",
+    "name": "Beach vibe stylish",
+    "category": "Sunglasses",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Sunglasses/su-117645/su-117645-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.62,
+    "createdAt": "2026-03-20T04:43:51.663836"
+  },
+  {
+    "id": "su-f748b1",
+    "name": "Black Round sunglasses",
+    "category": "Sunglasses",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Sunglasses/su-f748b1/su-f748b1-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.54,
+    "createdAt": "2026-03-20T04:44:21.186099"
+  },
+  {
+    "id": "su-570425",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 2699.0,
+    "images": [
+      "/api/images/Sunglasses/su-570425/su-570425-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:44:42.440171"
+  },
+  {
+    "id": "su-c81a92",
+    "name": "Square Black Sunglasses",
+    "category": "Sunglasses",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Sunglasses/su-c81a92/su-c81a92-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.52,
+    "createdAt": "2026-03-20T04:45:21.688457"
+  },
+  {
+    "id": "su-7ab132",
+    "name": "Square Black Sunglasses",
+    "category": "Sunglasses",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Sunglasses/su-7ab132/su-7ab132-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.52,
+    "createdAt": "2026-03-20T04:45:21.986789"
+  },
+  {
+    "id": "su-ca12e4",
+    "name": "Decent stylish",
+    "category": "Sunglasses",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Sunglasses/su-ca12e4/su-ca12e4-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.92,
+    "createdAt": "2026-03-20T04:45:46.363370"
+  },
+  {
+    "id": "su-c27120",
+    "name": "Black sunglasses combo",
+    "category": "Sunglasses",
+    "price": 3999.0,
+    "images": [
+      "/api/images/Sunglasses/su-c27120/su-c27120-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.56,
+    "createdAt": "2026-03-20T04:46:13.576942"
+  },
+  {
+    "id": "su-30ee5c",
+    "name": "Square Black",
+    "category": "Sunglasses",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Sunglasses/su-30ee5c/su-30ee5c-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.76,
+    "createdAt": "2026-03-20T04:46:43.060517"
+  },
+  {
+    "id": "su-51b104",
+    "name": "Grey Sunglasses",
+    "category": "Sunglasses",
+    "price": 399.0,
+    "images": [
+      "/api/images/Sunglasses/su-51b104/su-51b104-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.99,
+    "createdAt": "2026-03-20T04:47:15.525701"
+  },
+  {
+    "id": "su-32ea02",
+    "name": "Black sunglasses",
+    "category": "Sunglasses",
+    "price": 4999.0,
+    "images": [
+      "/api/images/Sunglasses/su-32ea02/su-32ea02-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T04:47:39.279419"
+  },
+  {
+    "id": "su-d9860d",
+    "name": "Round Black Sunglasses",
+    "category": "Sunglasses",
+    "price": 499.0,
+    "images": [
+      "/api/images/Sunglasses/su-d9860d/su-d9860d-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.98,
+    "createdAt": "2026-03-20T04:48:06.287309"
+  },
+  {
+    "id": "su-8b6bdb",
+    "name": "Beach vibe sunglasses",
+    "category": "Sunglasses",
+    "price": 799.0,
+    "images": [
+      "/api/images/Sunglasses/su-8b6bdb/su-8b6bdb-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.77,
+    "createdAt": "2026-03-20T04:48:37.926079"
+  },
+  {
+    "id": "wa-c16ce7",
+    "name": "Silver metal watch",
+    "category": "Watches",
+    "price": 4999.0,
+    "images": [
+      "/api/images/Watches/wa-c16ce7/wa-c16ce7-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.59,
+    "createdAt": "2026-03-20T04:49:55.663056"
+  },
+  {
+    "id": "wa-9bfd80",
+    "name": "Golden Blue watch",
+    "category": "Watches",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Watches/wa-9bfd80/wa-9bfd80-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.57,
+    "createdAt": "2026-03-20T04:50:20.302155"
+  },
+  {
+    "id": "wa-50d68e",
+    "name": "Brown Lather Watch",
+    "category": "Watches",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Watches/wa-50d68e/wa-50d68e-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.56,
+    "createdAt": "2026-03-20T04:50:48.860841"
+  },
+  {
+    "id": "wa-d076eb",
+    "name": "Brown watch",
+    "category": "Watches",
+    "price": 599.0,
+    "images": [
+      "/api/images/Watches/wa-d076eb/wa-d076eb-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T08:46:32.618077"
+  },
+  {
+    "id": "wa-7aa7ec",
+    "name": "Brown watch",
+    "category": "Watches",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Watches/wa-7aa7ec/wa-7aa7ec-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T08:46:51.539213"
+  },
+  {
+    "id": "wa-11cac7",
+    "name": "Black Metal",
+    "category": "Watches",
+    "price": 2499.0,
+    "images": [
+      "/api/images/Watches/wa-11cac7/wa-11cac7-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.68,
+    "createdAt": "2026-03-20T08:47:17.012256"
+  },
+  {
+    "id": "wa-259f17",
+    "name": "Black Metal",
+    "category": "Watches",
+    "price": 2499.0,
+    "images": [
+      "/api/images/Watches/wa-259f17/wa-259f17-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.68,
+    "createdAt": "2026-03-20T08:47:17.432967"
+  },
+  {
+    "id": "wa-4e70f1",
+    "name": "Black watch",
+    "category": "Watches",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Watches/wa-4e70f1/wa-4e70f1-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.69,
+    "createdAt": "2026-03-20T08:47:42.850832"
+  },
+  {
+    "id": "wa-0dcf5d",
+    "name": "Green watch",
+    "category": "Watches",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Watches/wa-0dcf5d/wa-0dcf5d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.96,
+    "createdAt": "2026-03-20T08:48:09.382605"
+  },
+  {
+    "id": "wa-bf57e2",
+    "name": "Brown watch",
+    "category": "Watches",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Watches/wa-bf57e2/wa-bf57e2-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T08:48:28.244023"
+  },
+  {
+    "id": "wa-7f561c",
+    "name": "Steel Metal watch",
+    "category": "Watches",
+    "price": 3999.0,
+    "images": [
+      "/api/images/Watches/wa-7f561c/wa-7f561c-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.66,
+    "createdAt": "2026-03-20T08:48:51.536814"
+  },
+  {
+    "id": "wa-cbf746",
+    "name": "Metal Watch",
+    "category": "Watches",
+    "price": 299.0,
+    "images": [
+      "/api/images/Watches/wa-cbf746/wa-cbf746-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.87,
+    "createdAt": "2026-03-20T08:49:59.732961"
+  },
+  {
+    "id": "wa-123b4e",
+    "name": "steal metal watch",
+    "category": "Watches",
+    "price": 2499.0,
+    "images": [
+      "/api/images/Watches/wa-123b4e/wa-123b4e-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-20T08:50:29.476824"
+  },
+  {
+    "id": "wa-901ca4",
+    "name": "White metal",
+    "category": "Watches",
+    "price": 499.0,
+    "images": [
+      "/api/images/Watches/wa-901ca4/wa-901ca4-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.66,
+    "createdAt": "2026-03-20T08:51:00.724746"
+  },
+  {
+    "id": "wa-f1e1c4",
+    "name": "Brown watch",
+    "category": "Watches",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Watches/wa-f1e1c4/wa-f1e1c4-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T08:51:23.346689"
+  },
+  {
+    "id": "wa-467f08",
+    "name": "Black metal",
+    "category": "Watches",
+    "price": 2599.0,
+    "images": [
+      "/api/images/Watches/wa-467f08/wa-467f08-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.68,
+    "createdAt": "2026-03-20T08:52:32.272525"
+  },
+  {
+    "id": "wa-b3b841",
+    "name": "Casio Gold",
+    "category": "Watches",
+    "price": 499.0,
+    "images": [
+      "/api/images/Watches/wa-b3b841/wa-b3b841-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.78,
+    "createdAt": "2026-03-20T08:52:59.313372"
+  },
+  {
+    "id": "wa-78f678",
+    "name": "Black Watch",
+    "category": "Watches",
+    "price": 599.0,
+    "images": [
+      "/api/images/Watches/wa-78f678/wa-78f678-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T08:53:22.065250"
+  },
+  {
+    "id": "wa-d2f1ed",
+    "name": "Blue and White",
+    "category": "Watches",
+    "price": 1699.0,
+    "images": [
+      "/api/images/Watches/wa-d2f1ed/wa-d2f1ed-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.53,
+    "createdAt": "2026-03-20T08:55:05.225912"
+  },
+  {
+    "id": "wa-75be0b",
+    "name": "Golden metal",
+    "category": "Watches",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Watches/wa-75be0b/wa-75be0b-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.96,
+    "createdAt": "2026-03-20T08:55:34.934121"
+  },
+  {
+    "id": "wa-be7c77",
+    "name": "Brown watch",
+    "category": "Watches",
+    "price": 999.0,
+    "images": [
+      "/api/images/Watches/wa-be7c77/wa-be7c77-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T08:58:16.178536"
+  },
+  {
+    "id": "wa-4b9729",
+    "name": "Metal watch",
+    "category": "Watches",
+    "price": 499.0,
+    "images": [
+      "/api/images/Watches/wa-4b9729/wa-4b9729-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-20T08:58:51.426280"
+  },
+  {
+    "id": "wa-655746",
+    "name": "Black watch",
+    "category": "Watches",
+    "price": 699.0,
+    "images": [
+      "/api/images/Watches/wa-655746/wa-655746-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.69,
+    "createdAt": "2026-03-20T08:59:25.736476"
+  },
+  {
+    "id": "wa-b1e3ea",
+    "name": "Metal watch",
+    "category": "Watches",
+    "price": 799.0,
+    "images": [
+      "/api/images/Watches/wa-b1e3ea/wa-b1e3ea-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-20T09:01:07.646592"
+  },
+  {
+    "id": "wa-020336",
+    "name": "Brown watch",
+    "category": "Watches",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Watches/wa-020336/wa-020336-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T09:01:35.194568"
+  },
+  {
+    "id": "wa-c7fb3e",
+    "name": "Black Metal",
+    "category": "Watches",
+    "price": 2499.0,
+    "images": [
+      "/api/images/Watches/wa-c7fb3e/wa-c7fb3e-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.68,
+    "createdAt": "2026-03-20T09:02:06.121994"
+  },
+  {
+    "id": "wa-aea009",
+    "name": "Green Watch",
+    "category": "Watches",
+    "price": 2199.0,
+    "images": [
+      "/api/images/Watches/wa-aea009/wa-aea009-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T09:02:52.120639"
+  },
+  {
+    "id": "wa-48c7ac",
+    "name": "Black Metal watch",
+    "category": "Watches",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Watches/wa-48c7ac/wa-48c7ac-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.88,
+    "createdAt": "2026-03-20T09:04:23.343348"
+  },
+  {
+    "id": "wa-836343",
+    "name": "Black watch",
+    "category": "Watches",
+    "price": 599.0,
+    "images": [
+      "/api/images/Watches/wa-836343/wa-836343-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.69,
+    "createdAt": "2026-03-20T09:04:57.297499"
+  },
+  {
+    "id": "wa-ffb174",
+    "name": "Golden Black watch",
+    "category": "Watches",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Watches/wa-ffb174/wa-ffb174-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.81,
+    "createdAt": "2026-03-20T09:05:25.721973"
+  },
+  {
+    "id": "wa-7e4125",
+    "name": "Black watch",
+    "category": "Watches",
+    "price": 599.0,
+    "images": [
+      "/api/images/Watches/wa-7e4125/wa-7e4125-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.69,
+    "createdAt": "2026-03-20T09:06:16.278340"
+  },
+  {
+    "id": "wa-62951a",
+    "name": "white chain watch",
+    "category": "Watches",
+    "price": 799.0,
+    "images": [
+      "/api/images/Watches/wa-62951a/wa-62951a-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.7,
+    "createdAt": "2026-03-20T09:07:08.935505"
+  },
+  {
+    "id": "wa-5ccf99",
+    "name": "Blue watch",
+    "category": "Watches",
+    "price": 699.0,
+    "images": [
+      "/api/images/Watches/wa-5ccf99/wa-5ccf99-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.97,
+    "createdAt": "2026-03-20T09:07:50.836885"
+  },
+  {
+    "id": "wa-f352d8",
+    "name": "White Metal Watch",
+    "category": "Watches",
+    "price": 899.0,
+    "images": [
+      "/api/images/Watches/wa-f352d8/wa-f352d8-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.52,
+    "createdAt": "2026-03-20T09:08:25.293617"
+  },
+  {
+    "id": "wa-788c5d",
+    "name": "Black Metal Watch",
+    "category": "Watches",
+    "price": 899.0,
+    "images": [
+      "/api/images/Watches/wa-788c5d/wa-788c5d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.61,
+    "createdAt": "2026-03-20T09:08:54.722356"
+  },
+  {
+    "id": "wa-8db05c",
+    "name": "Black Watch",
+    "category": "Watches",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Watches/wa-8db05c/wa-8db05c-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T09:09:23.960201"
+  },
+  {
+    "id": "wa-3a9640",
+    "name": "White Metal Watch",
+    "category": "Watches",
+    "price": 699.0,
+    "images": [
+      "/api/images/Watches/wa-3a9640/wa-3a9640-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.52,
+    "createdAt": "2026-03-20T09:09:53.959981"
+  },
+  {
+    "id": "wa-35fb91",
+    "name": "Black metal",
+    "category": "Watches",
+    "price": 3999.0,
+    "images": [
+      "/api/images/Watches/wa-35fb91/wa-35fb91-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.68,
+    "createdAt": "2026-03-20T09:13:29.948362"
+  },
+  {
+    "id": "wa-44aba8",
+    "name": "Brown Watch",
+    "category": "Watches",
+    "price": 899.0,
+    "images": [
+      "/api/images/Watches/wa-44aba8/wa-44aba8-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.99,
+    "createdAt": "2026-03-20T09:14:01.326387"
+  },
+  {
+    "id": "wa-eff50a",
+    "name": "Black Watch",
+    "category": "Watches",
+    "price": 999.0,
+    "images": [
+      "/api/images/Watches/wa-eff50a/wa-eff50a-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.86,
+    "createdAt": "2026-03-20T09:15:30.267886"
+  },
+  {
+    "id": "wa-2c1a50",
+    "name": "Metal Watch",
+    "category": "Watches",
+    "price": 699.0,
+    "images": [
+      "/api/images/Watches/wa-2c1a50/wa-2c1a50-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.87,
+    "createdAt": "2026-03-20T09:16:18.977484"
+  },
+  {
+    "id": "wa-768cac",
+    "name": "White Metal",
+    "category": "Watches",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Watches/wa-768cac/wa-768cac-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.71,
+    "createdAt": "2026-03-20T09:16:45.548091"
+  },
+  {
+    "id": "sh-d29821",
+    "name": "White Shirt",
+    "category": "Shirts",
+    "price": 599.0,
+    "images": [
+      "/api/images/Shirts/sh-d29821/sh-d29821-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.56,
+    "createdAt": "2026-03-20T09:19:12.894691"
+  },
+  {
+    "id": "sh-d408e3",
+    "name": "Grey Shirt",
+    "category": "Shirts",
+    "price": 499.0,
+    "images": [
+      "/api/images/Shirts/sh-d408e3/sh-d408e3-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.96,
+    "createdAt": "2026-03-20T09:54:31.235109"
+  },
+  {
+    "id": "sh-d6367f",
+    "name": "Blue Shirt",
+    "category": "Shirts",
+    "price": 599.0,
+    "images": [
+      "/api/images/Shirts/sh-d6367f/sh-d6367f-0.webp"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T09:55:04.796639"
+  },
+  {
+    "id": "sh-d74849",
+    "name": "Blue shirt",
+    "category": "Shirts",
+    "price": 999.0,
+    "images": [
+      "/api/images/Shirts/sh-d74849/sh-d74849-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.53,
+    "createdAt": "2026-03-20T09:55:35.475424"
+  },
+  {
+    "id": "sh-c248f3",
+    "name": "Onion pink shirt",
+    "category": "Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/Shirts/sh-c248f3/sh-c248f3-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.99,
+    "createdAt": "2026-03-20T09:56:08.912457"
+  },
+  {
+    "id": "sh-9864fc",
+    "name": "Blue Shirt",
+    "category": "Shirts",
+    "price": 799.0,
+    "images": [
+      "/api/images/Shirts/sh-9864fc/sh-9864fc-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T09:56:33.575535"
+  },
+  {
+    "id": "sh-d64e89",
+    "name": "Beige Shirt",
+    "category": "Shirts",
+    "price": 699.0,
+    "images": [
+      "/api/images/Shirts/sh-d64e89/sh-d64e89-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.6,
+    "createdAt": "2026-03-20T09:57:01.057195"
+  },
+  {
+    "id": "sh-dc87d3",
+    "name": "Green Checks",
+    "category": "Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shirts/sh-dc87d3/sh-dc87d3-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.92,
+    "createdAt": "2026-03-20T09:57:28.073001"
+  },
+  {
+    "id": "sh-756ff3",
+    "name": "Pink shirt",
+    "category": "Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/Shirts/sh-756ff3/sh-756ff3-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T09:57:47.942439"
+  },
+  {
+    "id": "sh-6ca61f",
+    "name": "Black and White Shirt",
+    "category": "Shirts",
+    "price": 999.0,
+    "images": [
+      "/api/images/Shirts/sh-6ca61f/sh-6ca61f-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.52,
+    "createdAt": "2026-03-20T09:58:31.092314"
+  },
+  {
+    "id": "sh-afd91c",
+    "name": "Green Formal Shirt",
+    "category": "Shirts",
+    "price": 599.0,
+    "images": [
+      "/api/images/Shirts/sh-afd91c/sh-afd91c-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.72,
+    "createdAt": "2026-03-20T09:59:04.411607"
+  },
+  {
+    "id": "sh-8a2088",
+    "name": "Black Shirt",
+    "category": "Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/Shirts/sh-8a2088/sh-8a2088-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-20T09:59:28.885661"
+  },
+  {
+    "id": "sh-9102c9",
+    "name": "Blue Shirt",
+    "category": "Shirts",
+    "price": 799.0,
+    "images": [
+      "/api/images/Shirts/sh-9102c9/sh-9102c9-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T09:59:50.568556"
+  },
+  {
+    "id": "sh-b7c584",
+    "name": "White Shirt",
+    "category": "Shirts",
+    "price": 799.0,
+    "images": [
+      "/api/images/Shirts/sh-b7c584/sh-b7c584-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.56,
+    "createdAt": "2026-03-20T10:00:14.830181"
+  },
+  {
+    "id": "sh-55f027",
+    "name": "Black red Shirt",
+    "category": "Shirts",
+    "price": 999.0,
+    "images": [
+      "/api/images/Shirts/sh-55f027/sh-55f027-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T10:00:40.049053"
+  },
+  {
+    "id": "sh-9278ed",
+    "name": "Skyblue partywear",
+    "category": "Shirts",
+    "price": 999.0,
+    "images": [
+      "/api/images/Shirts/sh-9278ed/sh-9278ed-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.0,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.65,
+    "createdAt": "2026-03-20T10:01:18.835600"
+  },
+  {
+    "id": "sh-7f06e8",
+    "name": "Grey Shirt",
+    "category": "Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/Shirts/sh-7f06e8/sh-7f06e8-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.96,
+    "createdAt": "2026-03-20T10:01:58.837742"
+  },
+  {
+    "id": "sh-e88dba",
+    "name": "Blue Shirt",
+    "category": "Shirts",
+    "price": 599.0,
+    "images": [
+      "/api/images/Shirts/sh-e88dba/sh-e88dba-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T10:02:53.272125"
+  },
+  {
+    "id": "sh-dae208",
+    "name": "Brown Shirt",
+    "category": "Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/Shirts/sh-dae208/sh-dae208-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T10:03:19.558286"
+  },
+  {
+    "id": "sh-2c1ac9",
+    "name": "White Shirt",
+    "category": "Shirts",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shirts/sh-2c1ac9/sh-2c1ac9-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.56,
+    "createdAt": "2026-03-20T10:07:58.427506"
+  },
+  {
+    "id": "sh-4d8370",
+    "name": "Sky Blue shirt",
+    "category": "Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shirts/sh-4d8370/sh-4d8370-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-20T10:08:21.608338"
+  },
+  {
+    "id": "sh-0def2e",
+    "name": "White Checks",
+    "category": "Shirts",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shirts/sh-0def2e/sh-0def2e-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.87,
+    "createdAt": "2026-03-20T10:08:55.674897"
+  },
+  {
+    "id": "sh-35326f",
+    "name": "Green Shirt",
+    "category": "Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shirts/sh-35326f/sh-35326f-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.54,
+    "createdAt": "2026-03-20T10:09:18.794111"
+  },
+  {
+    "id": "sh-44404b",
+    "name": "White Shirt",
+    "category": "Shirts",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Shirts/sh-44404b/sh-44404b-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.56,
+    "createdAt": "2026-03-20T10:09:41.539892"
+  },
+  {
+    "id": "sh-30e6aa",
+    "name": "Baby Pink Shirt",
+    "category": "Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shirts/sh-30e6aa/sh-30e6aa-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.8,
+    "createdAt": "2026-03-20T10:10:03.666529"
+  },
+  {
+    "id": "sh-f32c69",
+    "name": "Black Shirt",
+    "category": "Shirts",
+    "price": 799.0,
+    "images": [
+      "/api/images/Shirts/sh-f32c69/sh-f32c69-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-20T10:10:31.627816"
+  },
+  {
+    "id": "sh-d126be",
+    "name": "Pink printed",
+    "category": "Shirts",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shirts/sh-d126be/sh-d126be-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.56,
+    "createdAt": "2026-03-20T10:10:55.534438"
+  },
+  {
+    "id": "sh-205c8a",
+    "name": "Blue Printed",
+    "category": "Shirts",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Shirts/sh-205c8a/sh-205c8a-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.9,
+    "createdAt": "2026-03-20T10:11:22.306499"
+  },
+  {
+    "id": "sh-0e3c5b",
+    "name": "Light Pink",
+    "category": "Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shirts/sh-0e3c5b/sh-0e3c5b-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.66,
+    "createdAt": "2026-03-20T10:11:44.314307"
+  },
+  {
+    "id": "sh-dc8d2c",
+    "name": "Grey Shirt",
+    "category": "Shirts",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Shirts/sh-dc8d2c/sh-dc8d2c-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.96,
+    "createdAt": "2026-03-20T10:12:08.818129"
+  },
+  {
+    "id": "sh-b5b305",
+    "name": "Blue Shirt",
+    "category": "Shirts",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shirts/sh-b5b305/sh-b5b305-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T10:12:34.055652"
+  },
+  {
+    "id": "sh-ead832",
+    "name": "Skyblue Shirt",
+    "category": "Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shirts/sh-ead832/sh-ead832-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.61,
+    "createdAt": "2026-03-20T10:13:03.902946"
+  },
+  {
+    "id": "sh-3dea7a",
+    "name": "Blue Shirt",
+    "category": "Shirts",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Shirts/sh-3dea7a/sh-3dea7a-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T10:13:31.237812"
+  },
+  {
+    "id": "sh-1b5286",
+    "name": "Olive Green Shirt",
+    "category": "Shirts",
+    "price": 699.0,
+    "images": [
+      "/api/images/Shirts/sh-1b5286/sh-1b5286-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.7,
+    "createdAt": "2026-03-20T10:14:16.808184"
+  },
+  {
+    "id": "sh-e712a5",
+    "name": "Skyblue shirt",
+    "category": "Shirts",
+    "price": 999.0,
+    "images": [
+      "/api/images/Shirts/sh-e712a5/sh-e712a5-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.8,
+    "createdAt": "2026-03-20T10:14:53.121010"
+  },
+  {
+    "id": "sh-6958f9",
+    "name": "Green Shirt",
+    "category": "Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shirts/sh-6958f9/sh-6958f9-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.54,
+    "createdAt": "2026-03-20T10:15:23.534418"
+  },
+  {
+    "id": "sh-f9517d",
+    "name": "Light Orange",
+    "category": "Shirts",
+    "price": 299.0,
+    "images": [
+      "/api/images/Shirts/sh-f9517d/sh-f9517d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.5,
+    "createdAt": "2026-03-20T10:15:50.968240"
+  },
+  {
+    "id": "sh-59797d",
+    "name": "Pink Shirt",
+    "category": "Shirts",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Shirts/sh-59797d/sh-59797d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.72,
+    "createdAt": "2026-03-20T10:16:15.629407"
+  },
+  {
+    "id": "sh-1552d9",
+    "name": "White Shirt",
+    "category": "Shirts",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Shirts/sh-1552d9/sh-1552d9-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.56,
+    "createdAt": "2026-03-20T10:17:24.356143"
+  },
+  {
+    "id": "sh-f891cc",
+    "name": "Blue Printed",
+    "category": "Shirts",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Shirts/sh-f891cc/sh-f891cc-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.9,
+    "createdAt": "2026-03-20T10:17:47.733088"
+  },
+  {
+    "id": "sh-1ef1c7",
+    "name": "Green Shirt",
+    "category": "Shirts",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Shirts/sh-1ef1c7/sh-1ef1c7-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.54,
+    "createdAt": "2026-03-20T10:18:17.929856"
+  },
+  {
+    "id": "sh-ead4af",
+    "name": "Green Printed",
+    "category": "Shirts",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Shirts/sh-ead4af/sh-ead4af-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.75,
+    "createdAt": "2026-03-20T10:18:55.257769"
+  },
+  {
+    "id": "sh-57af2d",
+    "name": "Blue Shirt",
+    "category": "Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shirts/sh-57af2d/sh-57af2d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T10:19:23.057013"
+  },
+  {
+    "id": "sh-4fb5d2",
+    "name": "White Shirt",
+    "category": "Shirts",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Shirts/sh-4fb5d2/sh-4fb5d2-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.56,
+    "createdAt": "2026-03-20T10:19:45.652020"
+  },
+  {
+    "id": "sh-8ab8f2",
+    "name": "Red shirt",
+    "category": "Shirts",
+    "price": 2499.0,
+    "images": [
+      "/api/images/Shirts/sh-8ab8f2/sh-8ab8f2-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.66,
+    "createdAt": "2026-03-20T10:20:19.475104"
+  },
+  {
+    "id": "sh-6f09f3",
+    "name": "Blue Shirt",
+    "category": "Shirts",
+    "price": 699.0,
+    "images": [
+      "/api/images/Shirts/sh-6f09f3/sh-6f09f3-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.63,
+    "createdAt": "2026-03-20T10:20:47.530314"
+  },
+  {
+    "id": "sh-ee173d",
+    "name": "Red checks",
+    "category": "Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/Shirts/sh-ee173d/sh-ee173d-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.9,
+    "createdAt": "2026-03-20T10:21:15.428053"
+  },
+  {
+    "id": "sh-701e82",
+    "name": "Red checks",
+    "category": "Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/Shirts/sh-701e82/sh-701e82-0.jpeg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.9,
+    "createdAt": "2026-03-20T10:21:15.699137"
+  },
+  {
+    "id": "pa-6da0c9",
+    "name": "Black Formal",
+    "category": "Pants",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Pants/pa-6da0c9/pa-6da0c9-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-20T18:21:19.536298"
+  },
+  {
+    "id": "pa-9b7e00",
+    "name": "Gray pant",
+    "category": "Pants",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Pants/pa-9b7e00/pa-9b7e00-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-20T18:22:04.968549"
+  },
+  {
+    "id": "pa-dda061",
+    "name": "Black Formal pant",
+    "category": "Pants",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Pants/pa-dda061/pa-dda061-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-20T18:26:02.413701"
+  },
+  {
+    "id": "pa-d7a17d",
+    "name": "Beige Pant",
+    "category": "Pants",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Pants/pa-d7a17d/pa-d7a17d-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.68,
+    "createdAt": "2026-03-20T18:26:55.051264"
+  },
+  {
+    "id": "pa-50b88b",
+    "name": "Black Formal",
+    "category": "Pants",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Pants/pa-50b88b/pa-50b88b-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-20T18:27:33.346165"
+  },
+  {
+    "id": "pa-0a8a36",
+    "name": "Olive Green pant",
+    "category": "Pants",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Pants/pa-0a8a36/pa-0a8a36-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-20T18:28:04.511309"
+  },
+  {
+    "id": "pa-ab654f",
+    "name": "White Baggy",
+    "category": "Pants",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Pants/pa-ab654f/pa-ab654f-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-20T18:28:38.108267"
+  },
+  {
+    "id": "pa-eae050",
+    "name": "Gray pant",
+    "category": "Pants",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Pants/pa-eae050/pa-eae050-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-20T18:29:15.472380"
+  },
+  {
+    "id": "pa-1efce1",
+    "name": "Black Formal",
+    "category": "Pants",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Pants/pa-1efce1/pa-1efce1-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-20T18:29:44.027602"
+  },
+  {
+    "id": "pa-51c3c2",
+    "name": "Black Formal",
+    "category": "Pants",
+    "price": 999.0,
+    "images": [
+      "/api/images/Pants/pa-51c3c2/pa-51c3c2-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-20T18:30:23.520844"
+  },
+  {
+    "id": "pa-e9642e",
+    "name": "Beige Formal Pants",
+    "category": "Pants",
+    "price": 1699.0,
+    "images": [
+      "/api/images/Pants/pa-e9642e/pa-e9642e-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.59,
+    "createdAt": "2026-03-20T18:32:23.029371"
+  },
+  {
+    "id": "pa-4c7c33",
+    "name": "Beige Pants",
+    "category": "Pants",
+    "price": 699.0,
+    "images": [
+      "/api/images/Pants/pa-4c7c33/pa-4c7c33-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.8,
+    "createdAt": "2026-03-20T18:32:46.820591"
+  },
+  {
+    "id": "pa-81f111",
+    "name": "Maroon pant",
+    "category": "Pants",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Pants/pa-81f111/pa-81f111-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-20T18:33:33.855230"
+  },
+  {
+    "id": "sh-223758",
+    "name": "Brown Boots",
+    "category": "Shoes",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shoes/sh-223758/sh-223758-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-21T06:47:08.754350"
+  },
+  {
+    "id": "sh-b4173c",
+    "name": "Olive Boots",
+    "category": "Shoes",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Shoes/sh-b4173c/sh-b4173c-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.6,
+    "createdAt": "2026-03-21T06:47:39.830305"
+  },
+  {
+    "id": "sh-078ff4",
+    "name": "Red Boots",
+    "category": "Shoes",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Shoes/sh-078ff4/sh-078ff4-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.92,
+    "createdAt": "2026-03-21T06:48:04.109611"
+  },
+  {
+    "id": "sh-6e7c9c",
+    "name": "Sandle Boots",
+    "category": "Shoes",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Shoes/sh-6e7c9c/sh-6e7c9c-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.75,
+    "createdAt": "2026-03-21T06:48:33.003569"
+  },
+  {
+    "id": "sh-9416c0",
+    "name": "Brown Formal Shoe",
+    "category": "Shoes",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shoes/sh-9416c0/sh-9416c0-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-21T06:51:30.179370"
+  },
+  {
+    "id": "sh-e67955",
+    "name": "Wedding shoe",
+    "category": "Shoes",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Shoes/sh-e67955/sh-e67955-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.75,
+    "createdAt": "2026-03-21T06:51:54.237705"
+  },
+  {
+    "id": "sh-d49a40",
+    "name": "Brown Boots",
+    "category": "Shoes",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Shoes/sh-d49a40/sh-d49a40-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-21T06:52:24.744824"
+  },
+  {
+    "id": "sh-6f47dd",
+    "name": "Black Boots",
+    "category": "Shoes",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Shoes/sh-6f47dd/sh-6f47dd-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.92,
+    "createdAt": "2026-03-21T06:53:59.955207"
+  },
+  {
+    "id": "sh-de9ce2",
+    "name": "Black Shoe",
+    "category": "Shoes",
+    "price": 1699.0,
+    "images": [
+      "/api/images/Shoes/sh-de9ce2/sh-de9ce2-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-21T06:55:09.033855"
+  },
+  {
+    "id": "sh-7377ed",
+    "name": "Brown Formal",
+    "category": "Shoes",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Shoes/sh-7377ed/sh-7377ed-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.65,
+    "createdAt": "2026-03-21T06:55:59.098029"
+  },
+  {
+    "id": "sh-aa6ec2",
+    "name": "Black Boots",
+    "category": "Shoes",
+    "price": 999.0,
+    "images": [
+      "/api/images/Shoes/sh-aa6ec2/sh-aa6ec2-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.92,
+    "createdAt": "2026-03-21T06:56:26.217563"
+  },
+  {
+    "id": "sh-066e32",
+    "name": "White Boots",
+    "category": "Shoes",
+    "price": 3999.0,
+    "images": [
+      "/api/images/Shoes/sh-066e32/sh-066e32-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.68,
+    "createdAt": "2026-03-21T06:56:57.818151"
+  },
+  {
+    "id": "sh-7a3097",
+    "name": "Brown Formal",
+    "category": "Shoes",
+    "price": 2399.0,
+    "images": [
+      "/api/images/Shoes/sh-7a3097/sh-7a3097-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.65,
+    "createdAt": "2026-03-21T06:57:27.965761"
+  },
+  {
+    "id": "sh-be395a",
+    "name": "White Shoe",
+    "category": "Shoes",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shoes/sh-be395a/sh-be395a-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-21T06:58:32.092807"
+  },
+  {
+    "id": "sh-6dfbfc",
+    "name": "Black Boots",
+    "category": "Shoes",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shoes/sh-6dfbfc/sh-6dfbfc-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.92,
+    "createdAt": "2026-03-21T06:59:15.755046"
+  },
+  {
+    "id": "sh-4d4a97",
+    "name": "Brown Boots",
+    "category": "Shoes",
+    "price": 2899.0,
+    "images": [
+      "/api/images/Shoes/sh-4d4a97/sh-4d4a97-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-21T07:04:15.933499"
+  },
+  {
+    "id": "sh-317c06",
+    "name": "Blue Boots",
+    "category": "Shoes",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Shoes/sh-317c06/sh-317c06-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-21T07:05:08.195307"
+  },
+  {
+    "id": "sh-824961",
+    "name": "Light Brown Boots",
+    "category": "Shoes",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shoes/sh-824961/sh-824961-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.81,
+    "createdAt": "2026-03-21T07:05:35.843018"
+  },
+  {
+    "id": "sh-f193ab",
+    "name": "Puma Black Shoe",
+    "category": "Shoes",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shoes/sh-f193ab/sh-f193ab-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.8,
+    "createdAt": "2026-03-21T07:06:10.704746"
+  },
+  {
+    "id": "sh-b7e875",
+    "name": "Brown Boots",
+    "category": "Shoes",
+    "price": 2699.0,
+    "images": [
+      "/api/images/Shoes/sh-b7e875/sh-b7e875-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-21T07:06:37.854816"
+  },
+  {
+    "id": "sh-ca2a96",
+    "name": "Black Shoe",
+    "category": "Shoes",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Shoes/sh-ca2a96/sh-ca2a96-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-21T07:08:59.762180"
+  },
+  {
+    "id": "sh-a60443",
+    "name": "Working Shoe",
+    "category": "Shoes",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Shoes/sh-a60443/sh-a60443-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.73,
+    "createdAt": "2026-03-21T07:12:28.523130"
+  },
+  {
+    "id": "sh-b70dfd",
+    "name": "Black Stylish Boots",
+    "category": "Shoes",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Shoes/sh-b70dfd/sh-b70dfd-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.88,
+    "createdAt": "2026-03-21T07:12:58.626275"
+  },
+  {
+    "id": "sh-6b7914",
+    "name": "Black Running Shoe",
+    "category": "Shoes",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Shoes/sh-6b7914/sh-6b7914-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-21T07:13:45.868781"
+  },
+  {
+    "id": "sh-f04577",
+    "name": "Black Boots",
+    "category": "Shoes",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Shoes/sh-f04577/sh-f04577-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.92,
+    "createdAt": "2026-03-21T07:14:14.656750"
+  },
+  {
+    "id": "sh-158be2",
+    "name": "Gray Shoe",
+    "category": "Shoes",
+    "price": 899.0,
+    "images": [
+      "/api/images/Shoes/sh-158be2/sh-158be2-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.52,
+    "createdAt": "2026-03-21T07:15:29.056380"
+  },
+  {
+    "id": "sh-a11faf",
+    "name": "Brown Boots",
+    "category": "Shoes",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Shoes/sh-a11faf/sh-a11faf-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-21T07:15:58.561799"
+  },
+  {
+    "id": "sh-9b1931",
+    "name": "Brown Shoe",
+    "category": "Shoes",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shoes/sh-9b1931/sh-9b1931-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.93,
+    "createdAt": "2026-03-21T07:16:26.112371"
+  },
+  {
+    "id": "sh-069d53",
+    "name": "Yellow Boots",
+    "category": "Shoes",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shoes/sh-069d53/sh-069d53-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.87,
+    "createdAt": "2026-03-21T07:18:00.944898"
+  },
+  {
+    "id": "sh-1c79e0",
+    "name": "Yellow Boots",
+    "category": "Shoes",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shoes/sh-1c79e0/sh-1c79e0-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.87,
+    "createdAt": "2026-03-21T07:18:02.347228"
+  },
+  {
+    "id": "sh-72d511",
+    "name": "Yellow Boots",
+    "category": "Shoes",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Shoes/sh-72d511/sh-72d511-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.87,
+    "createdAt": "2026-03-21T07:18:32.093359"
+  },
+  {
+    "id": "sh-2951ff",
+    "name": "Wooden Colour Boots",
+    "category": "Shoes",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Shoes/sh-2951ff/sh-2951ff-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.69,
+    "createdAt": "2026-03-21T07:19:17.922762"
+  },
+  {
+    "id": "sh-7f8419",
+    "name": "Blue Boots",
+    "category": "Shoes",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Shoes/sh-7f8419/sh-7f8419-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-21T07:19:47.102781"
+  },
+  {
+    "id": "sh-db30c2",
+    "name": "Winter Brown Shoe",
+    "category": "Shoes",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Shoes/sh-db30c2/sh-db30c2-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-21T07:21:20.691208"
+  },
+  {
+    "id": "sh-7feeba",
+    "name": "White Brown Shoe",
+    "category": "Shoes",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Shoes/sh-7feeba/sh-7feeba-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.73,
+    "createdAt": "2026-03-21T07:22:45.868166"
+  },
+  {
+    "id": "sh-b1b838",
+    "name": "Blue Shoe",
+    "category": "Shoes",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Shoes/sh-b1b838/sh-b1b838-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.65,
+    "createdAt": "2026-03-21T07:24:12.315715"
+  },
+  {
+    "id": "sh-e4a05f",
+    "name": "Blue Formal Shoe",
+    "category": "Shoes",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Shoes/sh-e4a05f/sh-e4a05f-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.82,
+    "createdAt": "2026-03-21T07:25:10.343310"
+  },
+  {
+    "id": "sh-d5dedd",
+    "name": "White Shoe",
+    "category": "Shoes",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Shoes/sh-d5dedd/sh-d5dedd-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-21T07:27:05.700668"
+  },
+  {
+    "id": "sh-9cbbba",
+    "name": "White Shoe",
+    "category": "Shoes",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Shoes/sh-9cbbba/sh-9cbbba-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-21T07:27:32.502513"
+  },
+  {
+    "id": "sh-a6337c",
+    "name": "White and Black  Shoe",
+    "category": "Shoes",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shoes/sh-a6337c/sh-a6337c-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-21T07:28:45.295199"
+  },
+  {
+    "id": "sh-e780ca",
+    "name": "Grey Shoe",
+    "category": "Shoes",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Shoes/sh-e780ca/sh-e780ca-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-21T07:29:49.295213"
+  },
+  {
+    "id": "sh-b0c3e9",
+    "name": "Brown Formal Combo",
+    "category": "Shoes",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Shoes/sh-b0c3e9/sh-b0c3e9-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.97,
+    "createdAt": "2026-03-21T07:30:39.925291"
+  },
+  {
+    "id": "sh-a80efc",
+    "name": "White Shoe",
+    "category": "Shoes",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Shoes/sh-a80efc/sh-a80efc-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.89,
+    "createdAt": "2026-03-21T07:32:05.684288"
+  },
+  {
+    "id": "t--534160",
+    "name": "Maroon T-Shirt",
+    "category": "T-Shirts",
+    "price": 499.0,
+    "images": [
+      "/api/images/T-Shirts/t--534160/t--534160-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.64,
+    "createdAt": "2026-03-22T10:20:16.955077"
+  },
+  {
+    "id": "t--89c455",
+    "name": "White Sweat shirt",
+    "category": "T-Shirts",
+    "price": 699.0,
+    "images": [
+      "/api/images/T-Shirts/t--89c455/t--89c455-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-22T10:21:02.461289"
+  },
+  {
+    "id": "t--c0179b",
+    "name": "White Printed",
+    "category": "T-Shirts",
+    "price": 1299.0,
+    "images": [
+      "/api/images/T-Shirts/t--c0179b/t--c0179b-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.97,
+    "createdAt": "2026-03-22T10:21:33.577857"
+  },
+  {
+    "id": "t--96778e",
+    "name": "White T-shirt",
+    "category": "T-Shirts",
+    "price": 999.0,
+    "images": [
+      "/api/images/T-Shirts/t--96778e/t--96778e-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:22:03.520872"
+  },
+  {
+    "id": "t--395e3d",
+    "name": "Green T-shirt",
+    "category": "T-Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/T-Shirts/t--395e3d/t--395e3d-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.95,
+    "createdAt": "2026-03-22T10:22:42.739265"
+  },
+  {
+    "id": "t--96c895",
+    "name": "White T-shirt",
+    "category": "T-Shirts",
+    "price": 2999.0,
+    "images": [
+      "/api/images/T-Shirts/t--96c895/t--96c895-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:23:32.497408"
+  },
+  {
+    "id": "t--309c1b",
+    "name": "Brown T-shirt",
+    "category": "T-Shirts",
+    "price": 299.0,
+    "images": [
+      "/api/images/T-Shirts/t--309c1b/t--309c1b-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.69,
+    "createdAt": "2026-03-22T10:23:59.405521"
+  },
+  {
+    "id": "t--e40bf1",
+    "name": "Black Printed",
+    "category": "T-Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/T-Shirts/t--e40bf1/t--e40bf1-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.79,
+    "createdAt": "2026-03-22T10:24:35.264206"
+  },
+  {
+    "id": "t--bef5ed",
+    "name": "Black Printed",
+    "category": "T-Shirts",
+    "price": 1999.0,
+    "images": [
+      "/api/images/T-Shirts/t--bef5ed/t--bef5ed-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.79,
+    "createdAt": "2026-03-22T10:24:36.274091"
+  },
+  {
+    "id": "t--867a8f",
+    "name": "White T-shirt",
+    "category": "T-Shirts",
+    "price": 199.0,
+    "images": [
+      "/api/images/T-Shirts/t--867a8f/t--867a8f-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:25:12.949798"
+  },
+  {
+    "id": "t--c10aaa",
+    "name": "Gray T-shirt",
+    "category": "T-Shirts",
+    "price": 599.0,
+    "images": [
+      "/api/images/T-Shirts/t--c10aaa/t--c10aaa-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.75,
+    "createdAt": "2026-03-22T10:25:57.595174"
+  },
+  {
+    "id": "t--55b65c",
+    "name": "Pink Printed",
+    "category": "T-Shirts",
+    "price": 699.0,
+    "images": [
+      "/api/images/T-Shirts/t--55b65c/t--55b65c-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.96,
+    "createdAt": "2026-03-22T10:26:52.557704"
+  },
+  {
+    "id": "t--f87b10",
+    "name": "Black T-shirt",
+    "category": "T-Shirts",
+    "price": 999.0,
+    "images": [
+      "/api/images/T-Shirts/t--f87b10/t--f87b10-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.88,
+    "createdAt": "2026-03-22T10:27:41.316098"
+  },
+  {
+    "id": "t--9ba3aa",
+    "name": "Beige T-shirt",
+    "category": "T-Shirts",
+    "price": 799.0,
+    "images": [
+      "/api/images/T-Shirts/t--9ba3aa/t--9ba3aa-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.6,
+    "createdAt": "2026-03-22T10:28:54.137825"
+  },
+  {
+    "id": "t--b8cd99",
+    "name": "White T-shirt",
+    "category": "T-Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/T-Shirts/t--b8cd99/t--b8cd99-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:29:27.319973"
+  },
+  {
+    "id": "t--f6654f",
+    "name": "White T-shirt",
+    "category": "T-Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/T-Shirts/t--f6654f/t--f6654f-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:29:27.701410"
+  },
+  {
+    "id": "t--51f446",
+    "name": "White T-shirt",
+    "category": "T-Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/T-Shirts/t--51f446/t--51f446-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:29:27.761261"
+  },
+  {
+    "id": "t--3d4606",
+    "name": "Black Printed",
+    "category": "T-Shirts",
+    "price": 699.0,
+    "images": [
+      "/api/images/T-Shirts/t--3d4606/t--3d4606-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.79,
+    "createdAt": "2026-03-22T10:30:03.363281"
+  },
+  {
+    "id": "t--f3976f",
+    "name": "Stylish T-shirt",
+    "category": "T-Shirts",
+    "price": 799.0,
+    "images": [
+      "/api/images/T-Shirts/t--f3976f/t--f3976f-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.61,
+    "createdAt": "2026-03-22T10:32:20.474035"
+  },
+  {
+    "id": "t--6b1f26",
+    "name": "White T-shirt",
+    "category": "T-Shirts",
+    "price": 199.0,
+    "images": [
+      "/api/images/T-Shirts/t--6b1f26/t--6b1f26-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:32:46.828963"
+  },
+  {
+    "id": "t--38e51f",
+    "name": "Red T-shirt",
+    "category": "T-Shirts",
+    "price": 199.0,
+    "images": [
+      "/api/images/T-Shirts/t--38e51f/t--38e51f-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:33:16.308001"
+  },
+  {
+    "id": "t--280c4f",
+    "name": "Pink T-shirt",
+    "category": "T-Shirts",
+    "price": 999.0,
+    "images": [
+      "/api/images/T-Shirts/t--280c4f/t--280c4f-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.6,
+    "createdAt": "2026-03-22T10:38:06.338688"
+  },
+  {
+    "id": "t--765d47",
+    "name": "Black T-shirt",
+    "category": "T-Shirts",
+    "price": 499.0,
+    "images": [
+      "/api/images/T-Shirts/t--765d47/t--765d47-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.88,
+    "createdAt": "2026-03-22T10:42:32.912332"
+  },
+  {
+    "id": "t--f57f8a",
+    "name": "Baby Pink Printed",
+    "category": "T-Shirts",
+    "price": 699.0,
+    "images": [
+      "/api/images/T-Shirts/t--f57f8a/t--f57f8a-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.64,
+    "createdAt": "2026-03-22T10:43:56.284870"
+  },
+  {
+    "id": "t--5e9f92",
+    "name": "Yellow T-shirt",
+    "category": "T-Shirts",
+    "price": 899.0,
+    "images": [
+      "/api/images/T-Shirts/t--5e9f92/t--5e9f92-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.57,
+    "createdAt": "2026-03-22T10:44:38.669765"
+  },
+  {
+    "id": "t--0767b6",
+    "name": "Marooon T-shirt",
+    "category": "T-Shirts",
+    "price": 399.0,
+    "images": [
+      "/api/images/T-Shirts/t--0767b6/t--0767b6-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.51,
+    "createdAt": "2026-03-22T10:54:18.097512"
+  },
+  {
+    "id": "t--d6a669",
+    "name": "White T-shirt",
+    "category": "T-Shirts",
+    "price": 2999.0,
+    "images": [
+      "/api/images/T-Shirts/t--d6a669/t--d6a669-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:54:47.724258"
+  },
+  {
+    "id": "t--0a87e8",
+    "name": "Gray T-shirt",
+    "category": "T-Shirts",
+    "price": 699.0,
+    "images": [
+      "/api/images/T-Shirts/t--0a87e8/t--0a87e8-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.75,
+    "createdAt": "2026-03-22T10:55:56.910193"
+  },
+  {
+    "id": "t--086dbe",
+    "name": "White T-shirt",
+    "category": "T-Shirts",
+    "price": 1299.0,
+    "images": [
+      "/api/images/T-Shirts/t--086dbe/t--086dbe-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.85,
+    "createdAt": "2026-03-22T10:57:16.007245"
+  },
+  {
+    "id": "t--151fd0",
+    "name": "Skyblue",
+    "category": "T-Shirts",
+    "price": 199.0,
+    "images": [
+      "/api/images/T-Shirts/t--151fd0/t--151fd0-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.83,
+    "createdAt": "2026-03-22T10:58:22.231326"
+  },
+  {
+    "id": "ja-e9dfb8",
+    "name": "Black Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-e9dfb8/ja-e9dfb8-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-22T10:59:48.939964"
+  },
+  {
+    "id": "ja-5597a3",
+    "name": "Blue Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 999.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-5597a3/ja-5597a3-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.61,
+    "createdAt": "2026-03-22T11:00:21.388997"
+  },
+  {
+    "id": "ja-3c3b04",
+    "name": "Beige Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 6999.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-3c3b04/ja-3c3b04-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.51,
+    "createdAt": "2026-03-22T12:24:33.031564"
+  },
+  {
+    "id": "ja-851d5a",
+    "name": "Beige Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 999.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-851d5a/ja-851d5a-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.51,
+    "createdAt": "2026-03-22T12:25:58.056504"
+  },
+  {
+    "id": "ja-6c8188",
+    "name": "Gray Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-6c8188/ja-6c8188-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-22T12:26:26.809713"
+  },
+  {
+    "id": "ja-179d82",
+    "name": "Black Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 899.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-179d82/ja-179d82-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-22T12:28:15.738623"
+  },
+  {
+    "id": "ja-dfc72e",
+    "name": "White Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 2999.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-dfc72e/ja-dfc72e-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.51,
+    "createdAt": "2026-03-22T12:29:02.098385"
+  },
+  {
+    "id": "ja-42cf35",
+    "name": "Beige Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 799.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-42cf35/ja-42cf35-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.51,
+    "createdAt": "2026-03-22T12:29:30.521083"
+  },
+  {
+    "id": "ja-ee4899",
+    "name": "Green Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-ee4899/ja-ee4899-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.92,
+    "createdAt": "2026-03-22T12:30:05.842017"
+  },
+  {
+    "id": "ja-2a16d6",
+    "name": "Black Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-2a16d6/ja-2a16d6-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-22T12:34:17.239721"
+  },
+  {
+    "id": "ja-ee4ffe",
+    "name": "Blue Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-ee4ffe/ja-ee4ffe-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.61,
+    "createdAt": "2026-03-22T12:35:09.592882"
+  },
+  {
+    "id": "ja-6b6e1c",
+    "name": "Black and White Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-6b6e1c/ja-6b6e1c-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.78,
+    "createdAt": "2026-03-22T12:35:42.183179"
+  },
+  {
+    "id": "ja-e10e63",
+    "name": "Black and White Hoodie",
+    "category": "Jackets & Hoodies",
+    "price": 1999.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-e10e63/ja-e10e63-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.57,
+    "createdAt": "2026-03-22T12:36:24.482964"
+  },
+  {
+    "id": "ja-509eba",
+    "name": "Pink Hoodie",
+    "category": "Jackets & Hoodies",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-509eba/ja-509eba-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.59,
+    "createdAt": "2026-03-22T12:38:12.092635"
+  },
+  {
+    "id": "ja-8766a6",
+    "name": "Black Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-8766a6/ja-8766a6-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-22T12:39:17.756162"
+  },
+  {
+    "id": "ja-609c7d",
+    "name": "White Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-609c7d/ja-609c7d-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.51,
+    "createdAt": "2026-03-22T12:39:49.559085"
+  },
+  {
+    "id": "ja-984e78",
+    "name": "Beige Hoodie",
+    "category": "Jackets & Hoodies",
+    "price": 1699.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-984e78/ja-984e78-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-22T12:40:49.518196"
+  },
+  {
+    "id": "ja-1961f7",
+    "name": "Beige Hoodie",
+    "category": "Jackets & Hoodies",
+    "price": 1699.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-1961f7/ja-1961f7-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-22T12:40:49.815694"
+  },
+  {
+    "id": "ja-33d8e9",
+    "name": "White Hoodie",
+    "category": "Jackets & Hoodies",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-33d8e9/ja-33d8e9-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-22T12:41:44.602376"
+  },
+  {
+    "id": "ja-02f72a",
+    "name": "White Hoodie",
+    "category": "Jackets & Hoodies",
+    "price": 1899.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-02f72a/ja-02f72a-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-22T12:41:44.851155"
+  },
+  {
+    "id": "ja-79f5e9",
+    "name": "Black and White checks",
+    "category": "Jackets & Hoodies",
+    "price": 1599.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-79f5e9/ja-79f5e9-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.9,
+    "createdAt": "2026-03-22T12:42:15.898068"
+  },
+  {
+    "id": "ja-f98e9b",
+    "name": "White Hoodie",
+    "category": "Jackets & Hoodies",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-f98e9b/ja-f98e9b-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-22T12:42:47.482786"
+  },
+  {
+    "id": "ja-1e6699",
+    "name": "Brown Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 999.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-1e6699/ja-1e6699-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.59,
+    "createdAt": "2026-03-22T12:43:15.514078"
+  },
+  {
+    "id": "ja-26c9f6",
+    "name": "Dark Brown Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1699.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-26c9f6/ja-26c9f6-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.67,
+    "createdAt": "2026-03-22T12:43:57.905085"
+  },
+  {
+    "id": "ja-1d32b4",
+    "name": "Maroon Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 1499.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-1d32b4/ja-1d32b4-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.52,
+    "createdAt": "2026-03-22T12:44:33.139799"
+  },
+  {
+    "id": "ja-12b10e",
+    "name": "Beige Sweatshirt",
+    "category": "Jackets & Hoodies",
+    "price": 1299.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-12b10e/ja-12b10e-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.53,
+    "createdAt": "2026-03-22T12:45:14.227430"
+  },
+  {
+    "id": "ja-8be195",
+    "name": "Brown Hoodie",
+    "category": "Jackets & Hoodies",
+    "price": 1399.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-8be195/ja-8be195-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.66,
+    "createdAt": "2026-03-22T12:45:52.295185"
+  },
+  {
+    "id": "ja-61a342",
+    "name": "White Hoodie",
+    "category": "Jackets & Hoodies",
+    "price": 1799.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-61a342/ja-61a342-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.84,
+    "createdAt": "2026-03-22T12:46:40.252073"
+  },
+  {
+    "id": "ja-8dd85c",
+    "name": "Gray Jacket",
+    "category": "Jackets & Hoodies",
+    "price": 499.0,
+    "images": [
+      "/api/images/Jackets & Hoodies/ja-8dd85c/ja-8dd85c-0.jpg"
+    ],
+    "description": "",
+    "rating": 4.5,
+    "stock": 10,
+    "subcategory": "",
+    "popularityScore": 0.74,
+    "createdAt": "2026-03-22T12:47:11.618243"
+  }
+]

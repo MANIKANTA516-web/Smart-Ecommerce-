@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Shoes",
+    "code": "shoes",
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2742/2742674.png"
+  },
+  {
+    "name": "T-Shirts",
+    "code": "f809fb22cab5",
+    "logoUrl": "/api/category-logo/f809fb22cab5/logo.png",
+    "subcategories": []
+  },
+  {
+    "name": "Pants",
+    "code": "06b3f47a2e84",
+    "logoUrl": "/api/category-logo/06b3f47a2e84/logo.png",
+    "subcategories": []
+  },
+  {
+    "name": "Jackets & Hoodies",
+    "code": "ab83fe217173",
+    "logoUrl": "/api/category-logo/ab83fe217173/logo.png",
+    "subcategories": []
+  },
+  {
+    "name": "Sunglasses",
+    "code": "4d1ab4f06aaf",
+    "logoUrl": "/api/category-logo/4d1ab4f06aaf/logo.png",
+    "subcategories": []
+  },
+  {
+    "name": "Watches",
+    "code": "f522edfdaa18",
+    "logoUrl": "/api/category-logo/f522edfdaa18/logo.png",
+    "subcategories": []
+  },
+  {
+    "name": "Shirts",
+    "code": "540c45adcec0",
+    "logoUrl": "/api/category-logo/540c45adcec0/logo.png",
+    "subcategories": []
+  }
+]
